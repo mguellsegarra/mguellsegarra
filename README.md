@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 - 👨🏻‍💻  I am a multi-disciplined remote software developer from Valls.
 - 💻  Since my early childhood, I have had fascination for computers in themselves and everything that they can be made to do.
-- 🌱  Working in IT since 2005. I love mountains, coffee and technology.
+- 🔭  Working in IT since 2005. 
+- 🌱  I love mountains, coffee and technology.
 - 🛠  I've done remote work for agencies, collaborated with large companies and also helped small startups.
 - ✨  React, React Native and Javascript enthusiast.
 - 🤹🏻‍♂️  I'm naturally curious and perpetually working on improving my problem solver skills.
