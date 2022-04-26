@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center" width="300">
-   <img align="center" width="200" src="https://ondori.dev/images/logo.svg" />
+   <a href="https://ondori.dev"><img align="center" width="200" src="https://ondori.dev/images/logo.svg" /></a>
    <h3 align="center">Hello 👋🏼, my name is Marc Güell Segarra</h3>
 </p>
 
