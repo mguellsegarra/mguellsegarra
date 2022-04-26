@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center" width="300">
-   <img align="center" width="200" src="https://ondori.dev/static/f30dc955be5ca337ec5657ee34ec15f7/76539/avatar.jpg" />
+   <img align="center" width="200" src="https://ondori.dev/images/logo.svg" />
    <h3 align="center">Hello, my name is Marc Güell Segarra</h3>
 </p>
+
+- 👨🏻‍💻 I am a multi-disciplined remote software developer from Valls.
+- 💻 Since my early childhood, I have had fascination for computers in themselves and everything that they can be made to do.
+- 🌱 Working in IT since 2005. I love mountains, coffee and technology.
+- 💪 I've done remote work for agencies, collaborated with large companies and also helped small startups.
+- ⚡️ React, React Native and Javascript enthusiast.
+- 🤔 I'm naturally curious and perpetually working on improving my problem solver skills.
+- 🌍  Remotely available from UTC to UTC+8.
