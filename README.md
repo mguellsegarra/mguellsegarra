@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 🔭  Working in IT since 2005. 
 - 🌱  I love mountains, coffee and technology.
 - 🛠  I've done remote work for agencies, collaborated with large companies and also helped small startups.
-- ✨  React, React Native and Javascript enthusiast.
+- ✨  **React**, **React Native** and TypeScript/Javascript enthusiast.
 - 🤹🏻‍♂️  I'm naturally curious and perpetually working on improving my problem solver skills.
 - 🌍  Remotely available from UTC to UTC+8.
